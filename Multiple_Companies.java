@@ -1,4 +1,5 @@
 package com.Employee.wages;
+import java.util.Iterator;
 
 public class Multiple_Companies {
 	public String company;
